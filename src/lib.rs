@@ -1,5 +1,3 @@
-#![feature(external_doc)]
-
 use ta_common::fixed_queue::FixedQueue;
 use ta_common::traits::Indicator;
 
